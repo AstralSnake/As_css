@@ -1,5 +1,10 @@
 @import url('https://vtloa.github.io/Youfun.css');
 
+.mt-3.mb-3, .mt-3.mb-3 a, ul, ul a {
+    padding: 5px;
+    color: #37322b;
+}
+
 select {
     background: #efe0db;
     border: 1px solid;
