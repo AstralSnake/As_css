@@ -1,5 +1,9 @@
 @import url('https://vtloa.github.io/Youfun.css');
 
+div#app+div+[style="text-align: center"] a {
+    color: #c3817c;
+}
+
 .mt-3.mb-3, .mt-3.mb-3 a, ul, ul a {
     padding: 5px;
     color: #37322b;
