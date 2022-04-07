@@ -1,7 +1,9 @@
 @import url('https://vtloa.github.io/core_Tutorial_Design.css');
 
 
-
+.row.w-100 a, .row.w-100 span, .post-opt a, .post-opt span {
+    color: #ea844a;
+}
 .user:before {
     content: '';
 }
@@ -95,7 +97,7 @@ input[type="text"] {
     font-size: 10px;
     color: #2e2e2e;
 }
-.comment-text, .crumbs a, a:hover, span.crumb-item, .blog__about a, nav.navbar, .left-menu, .content, .post-avatar img, input[type="text"], input[type="submit"], textarea, .post-row, .datebg, select {
+.comment-text, .crumbs a, a:hover, .crumb-item, .blog__about a, nav.navbar, .left-menu, .content, .post-avatar img, input[type="text"], input[type="submit"], textarea, .post-row, .datebg, select {
 box-shadow: -3px 0 0 0 #303030, 3px 0 0 0 #2e2e2e, 0 -3px 0 0 #2f2f2f, 0 3px 0 0 #2e2e2e !important;
 }
 .post-text {
