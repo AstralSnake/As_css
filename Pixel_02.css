@@ -1,6 +1,10 @@
 @import url('https://vtloa.github.io/core_Tutorial_Design.css');
 
 
+[href="/design/disable"] {
+    background: #38b3a7 !important;
+}
+
 .crumbs>div a {
     margin-left: 4px;
     padding: 5px;
