@@ -1,5 +1,15 @@
 @import url('https://vtloa.github.io/core_Tutorial_Design.css');
 
+
+.left-menu__user-notification a {
+    display: inline-block;
+    background: #dfdfdf !important;
+    color: #303030;
+    margin-top: 3px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
 .left-menu__user-notification {
     margin-top: -3px;
 }
