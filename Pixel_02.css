@@ -1,3 +1,4 @@
+@import url('https://vtloa.github.io/core_Tutorial_Design.css');
 
 .row {
     flex-wrap: unset;
@@ -288,57 +289,6 @@ body {
     margin-top: 100px;
     margin-bottom: 100px;
 }
-
-
-
-
-
-
-/*ГРИБЫ*/
-
-
-.post-content .user:before, .comment-content .user:before {
-    content: url(https://i1.beon.fun/32/36/3632/19/169819/russula_bella_hongo_by_yuukimokuya_dcx0n0r-fullview.png) !important;
- background: #c3c3c3;
-    font-size: 9px;
-    margin-top: 11px !important;
-    border-radius: 100%;
-    color: transparent;
-    margin-right: 10px;
-    }
-.post-content:nth-child(2n+1) .user:before, .comment-content:nth-child(2n+1) .user:before {
-    content: url(https://i1.beon.fun/32/36/3632/26/169826/cortinarius_tenuipes_by_yuukimokuya_dcr2evp-fullview.png) !important;
-    
-}
-.post-content:nth-child(3n+2) .user:before, .comment-content:nth-child(3n+2) .user:before {
-    content: url(https://i1.beon.fun/32/36/3632/18/169818/hygrophorus_russula_by_yuukimokuya_dcx1s2f-fullview.png)
-!important;
-    }
-.post-content:nth-child(4n+2) .user:before, .comment-content:nth-child(4n+2) .user:before {
-    content: url(https://i1.beon.fun/32/36/3632/1/169801/hygrocybe_psittacina_by_yuukimokuya_dd0ix20-fullview.png) !important;
-   
-}
-.post-content:nth-child(5n+2) .user:before, .comment-content:nth-child(5n+2) .user:before {
-    content: url(https://i1.beon.fun/32/36/3632/7/169807/pleurotus_ostreatus_by_yuukimokuya_dd02fa8-fullview.png) !important;
-    }
-.post-content:nth-child(6n+2) .user:before, .comment-content:nth-child(6n+2) .user:before {
-    content: url(https://i1.beon.fun/32/36/3632/8/169808/gerronema_fibula_by_yuukimokuya_dd02exw-fullview.png) !important;
-    }
-.post-content:nth-child(7n+2) .user:before, .comment-content:nth-child(7n+2) .user:before {
-    content: url(https://i1.beon.fun/32/36/3632/23/169823/amanita_virgineoides_by_yuukimokuya_dctu9mm-fullview.png) !important;
-    }
-.post-content:nth-child(8n+2) .user:before, .comment-content:nth-child(8n+2) .user:before {
-    content: url(https://i1.beon.fun/32/36/3632/27/169827/hypholoma_sublateritium_by_yuukimokuya_dcr2f4l-fullview.png) !important;
-   }
-.post-content:nth-child(9n+2) .user:before, .comment-content:nth-child(9n+2) .user:before {
-    content: url(https://i1.beon.fun/32/36/3632/9/169809/wrinkled_peach_by_yuukimokuya_dcyi83t-fullview.png) !important;
-    }
-.post-content:nth-child(10n+2) .user:before, .comment-content:nth-child(10n+2) .user:before {
-    content: url(https://i1.beon.fun/32/36/3632/6/169806/stropharia_aeruginosa_by_yuukimokuya_dd02gl8-fullview.png) !important;
-    }
-
-/*ГРИБЫ КОНЕЦ*/
-
 
 @media (max-width: 425px) {
 main.py-4 {
