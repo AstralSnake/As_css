@@ -8,6 +8,7 @@
 .crumbs>div a {
     margin-left: 4px;
     padding: 5px;
+    font-weight: bold;
 }
 .left-menu__user-notification a {
     display: inline-block;
