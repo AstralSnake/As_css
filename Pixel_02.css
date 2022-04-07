@@ -1,5 +1,10 @@
 @import url('https://vtloa.github.io/core_Tutorial_Design.css');
 
+
+
+.user:before {
+    content: '';
+}
 .row {
     flex-wrap: unset;
 }
