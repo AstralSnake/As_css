@@ -1,6 +1,8 @@
 @import url('https://vtloa.github.io/core_Tutorial_Design.css');
 
-
+.left-menu__user-notification {
+    margin-top: -3px;
+}
 .row.w-100 a, .row.w-100 span, .post-opt a, .post-opt span {
     color: #ea844a;
 }
