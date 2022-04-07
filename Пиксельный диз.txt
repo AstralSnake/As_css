@@ -1,0 +1,419 @@
+
+.row {
+    flex-wrap: unset;
+}
+.sign {
+    width: 100px;
+}
+.textarea-wrapper + input[type="submit"] {
+    margin-top: 10px !important;
+}
+.post-content {
+    border-radius: unset;
+}
+div#app {
+    border-radius: unset;
+}
+img.avatar-select-label:hover {
+    padding: 5px;
+}
+img.avatar-select-label {
+    border: unset;
+    box-shadow: -3px 0 0 0 #303030, 3px 0 0 0 #2e2e2e, 0 -3px 0 0 #2f2f2f, 0 3px 0 0 #2e2e2e !important;
+    margin-top: 10px;
+    width: 80px;
+    transition: 0.2s;
+}
+.avatar-select-label-selected {
+    width: 100px !important;
+}
+.textarea-wrapper > textarea {
+    background: #efefef;
+}
+select {
+    border: unset;
+    background: transparent;
+}
+.datebg {
+    border-radius: unset;
+    color: #303030;
+    margin-top: 8px;
+    display: inline-block;
+    float: right;
+    font-size: 11px;
+    background: #ea844a;
+}
+.comment-row .post-avatar {
+    all: unset !important;
+}
+.post-row {
+    margin-top: 20px;
+    display: inline-flex;
+    background: #efefef;
+    margin-left: 125px;
+}
+.post-avatar {
+    position: absolute;
+    margin-left: -120px !important;
+}
+textarea {
+background: #f3f3f3 !imoirtant;
+    border: unset;
+}
+
+.textareabg {
+    background: transparent;
+    width: 97%;
+    margin: auto;
+    margin-bottom: 15px;
+}
+input[type="submit"]:hover {
+    background: #ea7d73;
+}
+input[type="submit"] {
+    font-size: 11px;
+    background: #ffe78e;
+    border: unset;
+    margin-left: 3px;
+    color: #303030;
+    font-weight: bold;
+}
+input[type="text"] {
+    
+    font-size: 11px;
+    background: #dfdfdf;
+    border: unset;
+}
+.sign {
+    margin-top: 5px;
+    font-size: 10px;
+    color: #2e2e2e;
+}
+.comment-text, .crumbs a, a:hover, span.crumb-item, .blog__about a, nav.navbar, .left-menu, .content, .post-avatar img, input[type="text"], input[type="submit"], textarea, .post-row, .datebg, select {
+box-shadow: -3px 0 0 0 #303030, 3px 0 0 0 #2e2e2e, 0 -3px 0 0 #2f2f2f, 0 3px 0 0 #2e2e2e !important;
+}
+.post-text {
+    box-shadow: unset !important;
+    background: unset !important;
+    padding: unset;
+}
+.comment-text {
+    
+    margin-left: 11px;
+    margin-top: 20px;
+    display: inline-block;
+    background: #f3f3f3;
+}
+i.fas.fa-heart, i.fas.fa-retweet, i.fas.fa-bookmark, i.fas.fa-trash-alt, i.fas.fa-quote-left {
+    color: #ea844a;
+font-size: 12px;
+}
+.post-opt, i.fas.fa-heart {
+    margin-left: 15px;
+}
+.comment-content {
+    margin-left: 6px;
+}
+a.user.post-title-user {
+    color: #303030;
+    font-weight: bold;
+}
+.crumbs a {
+    background: #ffe78e;
+    color: #303030;
+}
+.left-menu>div, .post-content, .comment-row {
+    box-shadow: unset;
+}
+a:hover {
+    color: #303030;
+    background: #e9e9e9 !important;
+ }
+a {
+    color: #838383;
+    transition: 0.1s;
+}
+
+.blog__read-me [src="/i/user.png"], [src="/i/blog.png"] {
+    display: none;
+}
+.post-text {
+    padding: 5px;
+    margin-left: 10px;
+}
+
+span.crumb-item:before {
+    content: '>';
+    display: block;
+    background: #dfdfdf;
+    clip-path: polygon(0 0, 0% 100%, 100% 50%);
+    width: 12px;
+    height: 20px;
+    margin: auto;
+    margin-top: 4px;
+    font-size: 0;
+}
+.crumbs {
+    position: absolute;
+    left: 28.2%;
+    right: 0;
+    top: 70px;
+    border-radius: unset;
+    font-size: 20px;
+    display: flex;
+}
+span.crumb-item {
+    font-size: 20px;
+    border-radius: unset;
+    width: 20px;
+    word-wrap: break-word;
+    position: fixed;
+    margin-top: 49px !important;
+    background: #38b3a7;
+    text-align: center;
+    }
+
+.post-avatar img {
+    width: 100px;
+}
+
+.left-menu-text {
+    display: inline-block;
+}
+.blog__about a {
+    
+    margin-top: 8px !important;
+    display: inline-block;
+    background: #ea844a;
+    padding: 1px;
+    color: black;
+    font-weight: bold;
+    font-size: 11px;
+}
+p.left-menu-text a {
+    background: #38b3a7;
+}
+p.left-menu-text a {
+    color: black;
+    font-weight: bold;
+}
+nav.navbar {
+border-radius: unset;
+    background: #dfdfdf;
+    position: static;
+}
+
+.text-center img {
+    padding: 1px;
+    image-rendering: -webkit-optimize-contrast;
+}
+.text-center {
+    position: relative;
+}
+
+.text-center:before {
+    content: 'you';
+    display: block;
+    width: 115px;
+    height: 115px;
+    background: url(https://static.thenounproject.com/png/191567-200.png) no-repeat center / cover;
+    color: #000000a8;
+    margin: auto;
+    margin-top: -8px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    border-radius: 100%;
+    image-rendering: pixelated;
+    padding-top: 6px;
+    font-weight: bold;
+    font-size: 0;
+    filter: contrast(0.7);
+}
+div#app {
+    font-family: monospace;
+}
+.left-menu h3 {
+    color: #303030;
+    background: #ea844a !important;
+    border-top: 3px solid #303030;
+    border-bottom: 3px solid #303030;
+    font-weight: bold;
+    font-size: 15px;
+    display: block;
+}
+.left-menu>div {
+    border-radius: unset;
+}
+.blog__about:before {
+    content: 'pred';
+    font-size: 0;
+    display: block;
+    height: 166px;
+    background: url(https://i.pinimg.com/564x/a6/0e/95/a60e95569eef5aede5ed9c86f0a8605e.jpg) no-repeat center / cover;
+    image-rendering: pixelated;
+}
+main.py-4 {
+    flex-direction: row;
+    margin-top: 75px;
+}
+body {
+    background: #dfdfdf;
+}
+
+
+.left-menu {
+    border: 0px !important;box-shadow: -3px 0 0 0 #303030, 3px 0 0 0 #303030, 0 -3px 0 0 #303030, 0 3px 0 0 #303030;
+}
+
+.content {
+    border: 0px !important;
+    margin-left: 50px;
+    width: 75%;
+}
+
+
+
+
+*::-webkit-scrollbar {
+    width: 3px;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #38b3a7;
+    border-radius: 0px;
+}
+*::-webkit-scrollbar-track {
+    background: #2f2f2f;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+/*ГРИБЫ*/
+
+
+.post-content .user:before, .comment-content .user:before {
+    content: url(https://i1.beon.fun/32/36/3632/19/169819/russula_bella_hongo_by_yuukimokuya_dcx0n0r-fullview.png) !important;
+ background: #c3c3c3;
+    font-size: 9px;
+    margin-top: 11px !important;
+    border-radius: 100%;
+    color: transparent;
+    margin-right: 10px;
+    }
+.post-content:nth-child(2n+1) .user:before, .comment-content:nth-child(2n+1) .user:before {
+    content: url(https://i1.beon.fun/32/36/3632/26/169826/cortinarius_tenuipes_by_yuukimokuya_dcr2evp-fullview.png) !important;
+    
+}
+.post-content:nth-child(3n+2) .user:before, .comment-content:nth-child(3n+2) .user:before {
+    content: url(https://i1.beon.fun/32/36/3632/18/169818/hygrophorus_russula_by_yuukimokuya_dcx1s2f-fullview.png)
+!important;
+    }
+.post-content:nth-child(4n+2) .user:before, .comment-content:nth-child(4n+2) .user:before {
+    content: url(https://i1.beon.fun/32/36/3632/1/169801/hygrocybe_psittacina_by_yuukimokuya_dd0ix20-fullview.png) !important;
+   
+}
+.post-content:nth-child(5n+2) .user:before, .comment-content:nth-child(5n+2) .user:before {
+    content: url(https://i1.beon.fun/32/36/3632/7/169807/pleurotus_ostreatus_by_yuukimokuya_dd02fa8-fullview.png) !important;
+    }
+.post-content:nth-child(6n+2) .user:before, .comment-content:nth-child(6n+2) .user:before {
+    content: url(https://i1.beon.fun/32/36/3632/8/169808/gerronema_fibula_by_yuukimokuya_dd02exw-fullview.png) !important;
+    }
+.post-content:nth-child(7n+2) .user:before, .comment-content:nth-child(7n+2) .user:before {
+    content: url(https://i1.beon.fun/32/36/3632/23/169823/amanita_virgineoides_by_yuukimokuya_dctu9mm-fullview.png) !important;
+    }
+.post-content:nth-child(8n+2) .user:before, .comment-content:nth-child(8n+2) .user:before {
+    content: url(https://i1.beon.fun/32/36/3632/27/169827/hypholoma_sublateritium_by_yuukimokuya_dcr2f4l-fullview.png) !important;
+   }
+.post-content:nth-child(9n+2) .user:before, .comment-content:nth-child(9n+2) .user:before {
+    content: url(https://i1.beon.fun/32/36/3632/9/169809/wrinkled_peach_by_yuukimokuya_dcyi83t-fullview.png) !important;
+    }
+.post-content:nth-child(10n+2) .user:before, .comment-content:nth-child(10n+2) .user:before {
+    content: url(https://i1.beon.fun/32/36/3632/6/169806/stropharia_aeruginosa_by_yuukimokuya_dd02gl8-fullview.png) !important;
+    }
+
+/*ГРИБЫ КОНЕЦ*/
+
+
+@media (max-width: 425px) {
+main.py-4 {
+    flex-direction: column !important;
+    margin-top: 10px;
+}
+.content {
+    width: unset;
+    margin-left: unset;
+    margin-top: 10px;
+}
+span.crumb-item {
+    width: unset;
+    word-wrap: unset;
+    position: unset;
+    margin-top: unset;
+    text-align: unset;
+}
+.crumbs {
+    position: unset;
+    left: unset;
+    right: unset;
+    top: unset;
+    border-radius: unset;
+    font-size: 20px;
+    display: unset;
+}
+h3.left-menu-text {
+    margin-top: 3px;
+}
+.post-avatar {
+    position: unset !important;
+    margin-left: unset !important;
+}
+.post-row {
+    margin-top: unset;
+    background: unset;
+    margin-left: unset;
+    box-shadow: unset !important;
+}
+.post-avatar {
+    position: unset !important;
+    margin-left: unset !important;
+}
+.post-avatar img {
+    width: 80px;
+}
+
+.post-text {
+    display: flow-root;
+    box-shadow: -3px 0 0 0 #303030, 3px 0 0 0 #2e2e2e, 0 -3px 0 0 #2f2f2f, 0 3px 0 0 #2e2e2e !important;
+    background: #efefef !important;
+}
+.avatar-select-list img {
+    margin-left: 10px;
+}
+div#app {
+    padding: 3px;
+}
+.post-content {
+    padding: 5px;
+}
+.sign {
+    width: 80px;}
+}
+
+
+@media (max-width: 1024px){
+.crumbs {
+    left: 28.5%;
+    top: 82px;}
+}
+@media (max-width: 768px){
+.crumbs {
+    left: 28.5%;
+    top: 70px;
+   }
+}
