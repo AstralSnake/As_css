@@ -1,6 +1,10 @@
 @import url('https://vtloa.github.io/core_Tutorial_Design.css');
 
 
+.crumbs>div a {
+    margin-left: 4px;
+    padding: 5px;
+}
 .left-menu__user-notification a {
     display: inline-block;
     background: #dfdfdf !important;
