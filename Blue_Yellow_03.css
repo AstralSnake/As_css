@@ -2,20 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 
-[href="/design/disable"] {
-    background: #c6ab60 !important;
-    color: #ece9cf !important;
-    border-color: #d3b76a !important;
-}
 
-.left-menu__user-notification a {
-    background: transparent !important;
-    color: #caae5e !important;
-}
-
-.post-avatar {
-    position: unset;
-}
 
 .post-opt.col-12.col-md-6 {
     margin-top: 40px;
@@ -482,4 +469,21 @@ div#app {
 label.menu__btn {
     margin-left: 100px;
 }
+}
+
+
+
+[href="/design/disable"] {
+    background: #c6ab60 !important;
+    color: #ece9cf !important;
+    border-color: #d3b76a !important;
+}
+
+.left-menu__user-notification a {
+    background: transparent !important;
+    color: #caae5e !important;
+}
+
+.post-avatar {
+    position: unset;
 }
