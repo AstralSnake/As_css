@@ -487,3 +487,9 @@ label.menu__btn {
 .post-avatar {
     position: unset;
 }
+.left-menu__user-notification a:hover {
+    color: rgb(200, 204, 255) !important;
+    background: rgb(77, 88, 210) !important;
+    box-shadow: 0 0 0 2px #4d58d6;
+    border: unset;
+}
