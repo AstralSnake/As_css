@@ -1,6 +1,8 @@
 @import url('https://vtloa.github.io/core_Tutorial_Design.css');
 
-
+span.embed-responsive {
+    min-width: 500px;
+}
 .left-menu__friends.left-menu__friends_offline h3.left-menu-text {
     border-top: unset;
 }
