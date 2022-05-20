@@ -3,6 +3,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
 
 
+
+
+.left-menu > div.mobile_open_menu > h3 {
+    color: #aeff02;
+}
 .pagination {
     color: #aeff04;
 }
