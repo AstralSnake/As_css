@@ -5,7 +5,9 @@
 @font-face { font-family: "Glyphter"; src: url('//AstralSnake.github.io/Fonts/Glyphter.ttf'); }
 @font-face { font-family: "Glyphter_2"; src: url('//AstralSnake.github.io/Fonts/Glyphter_2.ttf'); }
 
-
+.left-menu__user-notification a {
+    color: #09be7e;
+}
 p.quotation {
     border-left: 2px solid #c97c17;
     color: #d68e1e;
