@@ -5,6 +5,15 @@
 @font-face { font-family: "Glyphter"; src: url('//AstralSnake.github.io/Fonts/Glyphter.ttf'); }
 @font-face { font-family: "Glyphter_2"; src: url('//AstralSnake.github.io/Fonts/Glyphter_2.ttf'); }
 
+
+.comment-row span {
+    color: #dc9a2d;
+}
+.comment-text {
+    padding-top: 15px;
+    padding-right: 10%;
+}
+
 .post-avatar a:hover {
     padding: unset !important;
 }
