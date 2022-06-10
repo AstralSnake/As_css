@@ -5,7 +5,9 @@
 @font-face { font-family: "Glyphter"; src: url('//AstralSnake.github.io/Fonts/Glyphter.ttf'); }
 @font-face { font-family: "Glyphter_2"; src: url('//AstralSnake.github.io/Fonts/Glyphter_2.ttf'); }
 
-
+[src="/i/blog.png"] {
+    display: none;
+}
 .comment-row span {
     color: #dc9a2d;
 }
