@@ -8,9 +8,22 @@
 a.messageform__taglinks {
     color: #d89a3f;
 }
+span.pagination-goto {
+    color: #09c894;
+}
+.pagination {
+    font-size: 14px;
+    position: fixed;
+    right: 1%;
+    top: 1%;
+}
 .post-text a{
 color: #16a87d;
     font-size: 14px;
+}
+.crumbs a {
+    box-shadow: 0 -4px 4px 0px #0a614e38;
+    color: #00d5a1;
 }
 .crumbs:before {
     content: 'sf';
@@ -25,7 +38,7 @@ color: #16a87d;
 .left-menu > div.mobile_open_menu > h3 {
     color: #0dc28b;
 }
-.crumbs a:nth-child(1):hover {
+.crumbs a:nth-child(1):hover, .crumbs a:hover {
     padding: unset !important;
     color: #e8ab3f;
     text-shadow: 0 0 7px #ffc1179c;
@@ -501,14 +514,7 @@ div#footer,
 .user:before {
     display: none;
 }
-.crumbs a:nth-child(2) {
-    font-size: 20px;
-    top: -36px;
-    color: #f45c5c;
-    position: absolute;
-    right: 1%;
-    text-shadow: 0 0 5px #ff7575c7;
-}
+
 .crumbs a:nth-child(1) {
     font-size: 20px;
     top: -36px;
@@ -971,5 +977,8 @@ div#fnplayer-slider {
 }
 .crumbs:before {
   display:none;
+}
+.pagination {
+    position: unset;
 }
 }
