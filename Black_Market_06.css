@@ -5,6 +5,10 @@
 @font-face { font-family: "Glyphter"; src: url('//AstralSnake.github.io/Fonts/Glyphter.ttf'); }
 @font-face { font-family: "Glyphter_2"; src: url('//AstralSnake.github.io/Fonts/Glyphter_2.ttf'); }
 
+.post-avatar a:hover {
+    padding: unset !important;
+}
+
 a.messageform__taglinks {
     color: #d89a3f;
 }
