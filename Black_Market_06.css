@@ -5,6 +5,24 @@
 @font-face { font-family: "Glyphter"; src: url('//AstralSnake.github.io/Fonts/Glyphter.ttf'); }
 @font-face { font-family: "Glyphter_2"; src: url('//AstralSnake.github.io/Fonts/Glyphter_2.ttf'); }
 
+.post-content a {
+    color: #e1a134;
+}
+.blog__about .text-center {
+    display: none;
+}
+
+button.btn.btn-primary, button.btn.btn-secondary {
+    color: #14b27d;
+    background: #0a624d4d;
+    border: 2px solid #0e664d;
+    margin-right: 1%;
+    margin-top: 3px;
+    border-radius: unset;
+    padding: 1px 6px;
+    font-size: 16px;
+}
+
 .left-menu__user-notification a {
     color: #09be7e;
 }
@@ -190,9 +208,7 @@ textarea {
     border: 2px solid #167059 !important;
     box-shadow: 0 3px 4px 2px #0a614e6e;
 }
-.text-center {
-    display: none !important;
-}
+
 [href="/design/disable"]:before {
     content: 'S';
     font-size: 30px;
