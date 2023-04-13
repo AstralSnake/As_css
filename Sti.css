@@ -49,42 +49,42 @@ div#fffuuusmiles {
 
 [src$="/templates/images/smiles/bad.gif"] {content: url(https://beon.pics/uploads_image/19/7b/197b3ced1459c3aee9f4503b16d4fff8.jpg); }
 [src$="/templates/images/smiles/biggrin.gif"] {content: url(https://beon.pics/uploads_image/a1/ba/a1bad1b3d52a58adc1fd50b75e6ee470.png); }
-[src$="/templates/images/smiles/blum.gif"] {content: url(https://beon.pics/uploads_image/68/c6/68c6b32641a58eb4c39b8e3562d226c8.jpg); width: 190px;}
-[src$="/templates/images/smiles/blush.gif"] {content: url(https://beon.pics/uploads_image/95/89/9589665c7e8d2ad5a89dd9aced4eba23.png); width: 190px;}
-[src$="/templates/images/smiles/cray.gif"] {content: url(https://beon.pics/uploads_image/38/37/383794c394e643f5af7d2945da975055.jpg); width: 190px;}
-[src$="/templates/images/smiles/crazy.gif"] {content: url(https://beon.pics/uploads_image/d8/c0/d8c0d648026578abad0a3c9acb55f62e.jpg); width: 190px;}
-[src$="/templates/images/smiles/dance.gif"] {content: url(https://beon.pics/uploads_user/1000/968/280ad39e3222b214f38088442ff609b8.gif); width: 190px;}
-[src$="/templates/images/smiles/diablo.gif"] {content: url(https://beon.pics/uploads_image/1e/64/1e64f783d59c4f0742dd8c1187fe4b95.jpg); width: 190px;}
-[src$="/templates/images/smiles/dirol.gif"] {content: url(https://beon.pics/uploads_image/f0/bc/f0bc5a88814591489b69f785a4c2ae55.png); width: 190px;}
-[src$="/templates/images/smiles/drinks.gif"] {content: url(https://beon.pics/uploads_image/fc/22/fc225f9dd55d9ee9e47fdbb199042da1.jpg); width: 190px;}
-[src$="/templates/images/smiles/fool.gif"] {content: url(https://beon.pics/uploads_image/af/94/af944ca78a5d17b977c8660ee28f94ab.jpg); width: 190px;}
-[src$="/templates/images/smiles/good.gif"] {content: url(https://beon.pics/uploads_image/fc/86/fc86dd1d5c2a20cca41276a8e6127677.jpg); width: 190px;}
-[src$="/templates/images/smiles/kiss_mini.gif"] {content: url(https://beon.pics/uploads_user/1000/968/fc329c23b865b0921eaef1c084acfb6e.gif); width: 190px;}
-[src$="/templates/images/smiles/man_in_love.gif"] {content: url(https://beon.pics/uploads_user/1000/968/2712e5f453db211d89904199d4562a40.gif); width: 190px;}
-[src$="/templates/images/smiles/music.gif"] {content: url(https://beon.pics/uploads_image/7f/39/7f391f147fb470f8cc91fb6cfde9dd49.jpg); width: 190px;}
-[src$="/templates/images/smiles/nea.gif"] {content: url(https://beon.pics/uploads_image/54/e9/54e9d3c355d7fe6f8d91f51f3530ccf1.png); width: 190px;}
-[src$="/templates/images/smiles/pardon.gif"] {content: url(https://beon.pics/uploads_image/ef/ff/efff9f558160df111da2d12db4ae5167.jpg); width: 190px;}
-[src$="/templates/images/smiles/rofl.gif"] {content: url(https://beon.pics/uploads_image/77/15/7715cdde27cded8e797403168d8498da.png); width: 190px;}
-[src$="/templates/images/smiles/rolleyes.gif"] {content: url(https://beon.pics/uploads_image/bf/3a/bf3a1503db1a8350387fd2fc8cc1614d.jpg); width: 190px;}
-[src$="/templates/images/smiles/sad.gif"] {content: url(https://beon.pics/uploads_image/91/3f/913f4ac3675fcdbfd7c3251e00dc050b.jpg); width: 190px;}
+[src$="/templates/images/smiles/blum.gif"] {content: url(https://beon.pics/uploads_image/68/c6/68c6b32641a58eb4c39b8e3562d226c8.jpg);}
+[src$="/templates/images/smiles/blush.gif"] {content: url(https://beon.pics/uploads_image/95/89/9589665c7e8d2ad5a89dd9aced4eba23.png);}
+[src$="/templates/images/smiles/cray.gif"] {content: url(https://beon.pics/uploads_image/38/37/383794c394e643f5af7d2945da975055.jpg);}
+[src$="/templates/images/smiles/crazy.gif"] {content: url(https://beon.pics/uploads_image/d8/c0/d8c0d648026578abad0a3c9acb55f62e.jpg);}
+[src$="/templates/images/smiles/dance.gif"] {content: url(https://beon.pics/uploads_user/1000/968/280ad39e3222b214f38088442ff609b8.gif);}
+[src$="/templates/images/smiles/diablo.gif"] {content: url(https://beon.pics/uploads_image/1e/64/1e64f783d59c4f0742dd8c1187fe4b95.jpg);}
+[src$="/templates/images/smiles/dirol.gif"] {content: url(https://beon.pics/uploads_image/f0/bc/f0bc5a88814591489b69f785a4c2ae55.png);}
+[src$="/templates/images/smiles/drinks.gif"] {content: url(https://beon.pics/uploads_image/fc/22/fc225f9dd55d9ee9e47fdbb199042da1.jpg);}
+[src$="/templates/images/smiles/fool.gif"] {content: url(https://beon.pics/uploads_image/af/94/af944ca78a5d17b977c8660ee28f94ab.jpg);}
+[src$="/templates/images/smiles/good.gif"] {content: url(https://beon.pics/uploads_image/fc/86/fc86dd1d5c2a20cca41276a8e6127677.jpg);}
+[src$="/templates/images/smiles/kiss_mini.gif"] {content: url(https://beon.pics/uploads_user/1000/968/fc329c23b865b0921eaef1c084acfb6e.gif);}
+[src$="/templates/images/smiles/man_in_love.gif"] {content: url(https://beon.pics/uploads_user/1000/968/2712e5f453db211d89904199d4562a40.gif);}
+[src$="/templates/images/smiles/music.gif"] {content: url(https://beon.pics/uploads_image/7f/39/7f391f147fb470f8cc91fb6cfde9dd49.jpg);}
+[src$="/templates/images/smiles/nea.gif"] {content: url(https://beon.pics/uploads_image/54/e9/54e9d3c355d7fe6f8d91f51f3530ccf1.png);}
+[src$="/templates/images/smiles/pardon.gif"] {content: url(https://beon.pics/uploads_image/ef/ff/efff9f558160df111da2d12db4ae5167.jpg);}
+[src$="/templates/images/smiles/rofl.gif"] {content: url(https://beon.pics/uploads_image/77/15/7715cdde27cded8e797403168d8498da.png);}
+[src$="/templates/images/smiles/rolleyes.gif"] {content: url(https://beon.pics/uploads_image/bf/3a/bf3a1503db1a8350387fd2fc8cc1614d.jpg);}
+[src$="/templates/images/smiles/sad.gif"] {content: url(https://beon.pics/uploads_image/91/3f/913f4ac3675fcdbfd7c3251e00dc050b.jpg);}
 
-[src$="/templates/images/smiles/scratch_one-s_head.gif"] {content: url(https://beon.pics/uploads_image/29/2f/292f02199eeb4a160fd77030e1ba1495.jpg); width: 190px;}
+[src$="/templates/images/smiles/scratch_one-s_head.gif"] {content: url(https://beon.pics/uploads_image/29/2f/292f02199eeb4a160fd77030e1ba1495.jpg);}
 
-[src$="/templates/images/smiles/shok.gif"] {content: url(https://i.ibb.co/tPxm9qD/image.png); width: 190px;}
+[src$="/templates/images/smiles/shok.gif"] {content: url(https://i.ibb.co/tPxm9qD/image.png);}
 
-[src$="/templates/images/smiles/shout.gif"] {content: url(https://beon.pics/uploads_image/33/c6/33c6077c8c4ffd043b7648ca0f136dca.jpg); width: 190px;}
+[src$="/templates/images/smiles/shout.gif"] {content: url(https://beon.pics/uploads_image/33/c6/33c6077c8c4ffd043b7648ca0f136dca.jpg);}
 
-[src$="/templates/images/smiles/smile.gif"] {content: url(https://i.ibb.co/9rcKXRx/image.gif); width: 190px;}
+[src$="/templates/images/smiles/smile.gif"] {content: url(https://i.ibb.co/9rcKXRx/image.gif);}
 
-[src$="/templates/images/smiles/unknw.gif"] {content: url(https://beon.pics/uploads_image/94/de/94de93f7d8247588e6fd476a02382f5f.jpg); width: 190px;}
+[src$="/templates/images/smiles/unknw.gif"] {content: url(https://beon.pics/uploads_image/94/de/94de93f7d8247588e6fd476a02382f5f.jpg); }
 
-[src$="/templates/images/smiles/wacko2.gif"] {content: url(https://beon.pics/uploads_image/88/9d/889dec3224a2b05be470db3625d72866.jpg); width: 190px;}
+[src$="/templates/images/smiles/wacko2.gif"] {content: url(https://beon.pics/uploads_image/88/9d/889dec3224a2b05be470db3625d72866.jpg); }
 
-[src$="/templates/images/smiles/wink.gif"] {content: url(https://beon.pics/uploads_image/d3/30/d33098420247e00fe154edf448ca9bff.png); width: 190px;}
+[src$="/templates/images/smiles/wink.gif"] {content: url(https://beon.pics/uploads_image/d3/30/d33098420247e00fe154edf448ca9bff.png); }
 
-[src$="/templates/images/smiles/yahoo.gif"] {content: url(https://beon.pics/uploads_image/c9/f9/c9f93e265a03477ea17947b7670df9ea.png); width: 190px;}
+[src$="/templates/images/smiles/yahoo.gif"] {content: url(https://beon.pics/uploads_image/c9/f9/c9f93e265a03477ea17947b7670df9ea.png);}
 
-[src$="/templates/images/smiles/angel.gif"] {content: url(https://beon.pics/uploads_image/a7/37/a7376f8a561e23828cfb8d6394800634.jpg); width: 190px;}
+[src$="/templates/images/smiles/angel.gif"] {content: url(https://beon.pics/uploads_image/a7/37/a7376f8a561e23828cfb8d6394800634.jpg);}
 
 
 
