@@ -167,6 +167,9 @@ h2.card-title a {
     .btn-outline-success:focus, .btn-outline-success.focus {
     box-shadow: unset !important;
 }
+div.menu_item_dropdown a {
+    color: black !important;
+}
  
 
 @media (max-width: 768px) {
