@@ -1,11 +1,33 @@
 
-
-
 @media (max-width: 1024px) {
 #smiles img {
 width: 66px !important;
 height: 66px !important;
 }
+} 
+
+
+
+div#bbcode img.fl_l {
+float: unset;
+}
+
+div#bbcode img.fl_l {
+width: 40px;
+height: 40px;
+}
+
+div#bbcode [src="/images/bbcode/smile.gif"] {
+padding: 0 !important;
+}
+
+div#bbcode [alt="FFFUUU Смайлы"] {
+padding: 20px !important;
+}
+
+div#bbcode [alt="FFFUUU Смайлы"]:hover {
+box-shadow: unset;
+transform: unset;
 } 
 
 
