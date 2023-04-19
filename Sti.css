@@ -6,6 +6,15 @@ height: 66px !important;
 }
 } 
 
+@media (max-width: 280px), (max-width: 480px), (max-width: 768px),(max-width: 1024px) {
+ div#smiles,div#fffuuusmiles {
+max-height: 200px;
+overflow-y: scroll;
+overflow-x: hidden; 
+}
+    
+} 
+
 
 
 div#bbcode img.fl_l {
@@ -32,11 +41,7 @@ transform: unset;
 
 
 
-div#smiles,div#fffuuusmiles {
-max-height: 200px;
-overflow-y: scroll;
-overflow-x: hidden; 
-}
+
 
 #smiles img {
 width: 70px !important;
