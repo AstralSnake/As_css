@@ -35,10 +35,9 @@ padding: 20px !important;
 }
 
 div#bbcode [alt="FFFUUU Смайлы"]:hover {
-box-shadow: unset;
-transform: unset;
+box-shadow: unset !important;
+transform: unset !important;
 } 
-
 
 
 
