@@ -1,6 +1,17 @@
+#smiles img {
+width: 72px !important;
+height: 70px;
+object-fit: cover;
+padding: 2px !important;
+border-radius: 7px;
+image-rendering: -webkit-optimize-contrast;
+}
+
+
 img.photo {
     border: none !important;
 }
+
 
 div#bbcode img.fl_l {
 content: url(https://beon.pics/uploads_image/fc/7b/fc7bc5dfa90542d16a59e5055f6bbc13.jpg);
