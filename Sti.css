@@ -1,9 +1,19 @@
+
+
+
 @media (max-width: 1024px) {
 #smiles img {
 width: 66px !important;
 height: 66px !important;
 }
 } 
+
+
+
+div#smiles,div#fffuuusmiles {
+max-height: 200px;
+overflow-y: scroll;
+}
 
 #smiles img {
 width: 70px !important;
