@@ -16,6 +16,9 @@ overflow-x: hidden;
 } 
 
 
+span.card-text [src^="/images/beonsmiles/"] {
+content: unset;
+} 
 
 div#bbcode img.fl_l {
 float: unset;
