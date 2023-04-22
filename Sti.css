@@ -1,21 +1,4 @@
 
-@media (max-width: 1024px) {
-#smiles img {
-width: 66px !important;
-height: 66px !important;
-}
-} 
-
-@media (max-width: 280px), (max-width: 480px), (max-width: 768px),(max-width: 1024px) {
- div#smiles,div#fffuuusmiles {
-max-height: 200px;
-overflow-y: scroll;
-overflow-x: hidden; 
-}
-    
-} 
-
-
 span.card-text [src^="/images/beonsmiles/"] {
 content: unset;
 } 
@@ -402,3 +385,24 @@ width: 0px;
 div#bbcode [src^="/images/fffuuusmiles/"] {
 padding: 40px;
 }  
+
+
+
+
+
+
+@media (max-width: 1024px) {
+#smiles img {
+width: 66px !important;
+height: 66px !important;
+}
+} 
+
+@media (max-width: 280px), (max-width: 480px), (max-width: 768px),(max-width: 1024px) {
+ div#smiles,div#fffuuusmiles {
+max-height: 200px;
+overflow-y: scroll;
+overflow-x: hidden; 
+}
+    
+} 
