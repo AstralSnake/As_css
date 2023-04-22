@@ -1,3 +1,7 @@
+img.img-thumbnail {
+    padding: unset;
+    border: unset;
+}
 
 span.card-text [src^="/images/beonsmiles/"] {
 content: unset;
