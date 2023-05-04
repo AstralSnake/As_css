@@ -1,3 +1,13 @@
+div#bbcode img.fl_l {
+width: 20px;
+height: 20px;
+}
+
+div#bbcode [alt="FFFUUU Смайлы"] {
+padding: 10px !important;
+border-radius: unset;
+} 
+
 img.img-thumbnail {
     padding: unset;
     border: unset;
