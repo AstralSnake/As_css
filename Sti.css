@@ -32,7 +32,7 @@ padding: 0 !important;
 }
 
 div#bbcode [alt="FFFUUU Смайлы"] {
-padding: 20px !important;
+   border-radius: unset !important;
 }
 
 div#bbcode [alt="FFFUUU Смайлы"]:hover {
