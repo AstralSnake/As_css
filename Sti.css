@@ -1,6 +1,6 @@
 div#bbcode img.fl_l {
-width: 20px !important;
-height: 20px !important;
+    width: 17.5px !important;
+    height: 17.5px !important;
 }
 
 div#bbcode [alt="FFFUUU Смайлы"] {
@@ -33,6 +33,7 @@ padding: 0 !important;
 
 div#bbcode [alt="FFFUUU Смайлы"] {
    border-radius: unset !important;
+   padding: 8.8px !important;
 }
 
 div#bbcode [alt="FFFUUU Смайлы"]:hover {
