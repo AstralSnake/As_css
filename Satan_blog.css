@@ -1,8 +1,15 @@
 @import url('https://AstralSnake.github.io/sticer.css');
 
+
+
 .profile_comment_author [href="https://beon.vip/you/"]:after {
     content: url(https://i.ibb.co/vdWH2Dp/image.png);
     margin-left: 5px;
+}
+
+.profile_comment_author [href="https://beon.vip/ontologia/"] img {
+    content: url(https://beon.vip/uploads_user/1000/968/9cb569a….png);
+    filter: unset;
 }
 
 .profile_comment_author [href="https://beon.vip/evol/"]:after {
