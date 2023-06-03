@@ -207,6 +207,24 @@ div.menu_item_dropdown a {
     background: #22221f;
     color: white !important;
 }
+td.top_menu {
+    padding-left: unset;
+}
+
+div.menu_dropdown {
+    background: transparent;
+    padding: unset;
+}
+div.menu_item_dropdown a:hover {
+    background: #93352c;
+}
+
+.top_header button.btn.btn-primary:before {
+    content: url(https://beon.vip/uploads_user/10000/9068/c0f97719d3b33901c5d82701055aec47.png);
+    font-size: 18px;
+    text-align: center;
+    margin-left: -4px;
+}
 
 
 
