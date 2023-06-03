@@ -198,5 +198,15 @@ div.menu_item_dropdown a {
 }
 
 
+/*UPD*/
+
+div.menu_dropdown {
+    background: #22221f;
+}
+.top_menu_link:hover div.menu_dropdown {
+    border: unset !important;
+}
+
+
 
 
