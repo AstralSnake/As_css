@@ -203,10 +203,10 @@ div.menu_item_dropdown a {
 div.menu_dropdown {
     background: #22221f;
 }
-.top_menu_link:hover div.menu_dropdown {
-    border: 0 !important;
+div.menu_item_dropdown a {
+    background: #22221f;
+    color: white !important;
 }
-
 
 
 
