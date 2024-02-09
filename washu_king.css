@@ -185,7 +185,7 @@ button.btn.btn-primary, button.button_down {
     border: none;
     background: none;
 }
-    div#comment_subscribe, [src="/images/notify.svg"] {
+    [src="/images/notify.svg"] {
     border: none !important;
     background: none !important;
     filter: invert(75%) sepia(29%) saturate(510%) hue-rotate(277deg) brightness(105%) contrast(90%);
