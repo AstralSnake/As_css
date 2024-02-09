@@ -1,6 +1,11 @@
 @import url('https://AstralSnake.github.io/sticer.css');
 
 
+span#notify_total {
+    background: #f2b3e8 !important;
+    background: #f2b3e8;
+}
+
 img.photo, .post_image img {
     border-radius: 3px;
 }
