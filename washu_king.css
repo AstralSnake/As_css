@@ -4,13 +4,19 @@ div#comment_subscribe {
     background: no-repeat;
     filter: sepia(61%) saturate(1558%) hue-rotate(208deg) brightness(98%) contrast(92%);
 }
+nav.navbar.navbar-expand-lg.navbar-light.bg-light.top_menu.top_mobile_menu {
+    background: #ffbff552;
+    backdrop-filter: blur(4px);
+    border: 0px !important;
+    border: 0px;
+}
 h6.card-subtitle.mb-2.text-muted.post_date [href="https://beon.vip/washu/"]:before {
     color: #ff83ea;
 }
 div#lefthome a {
     color: white;
 }
-div#user_status {
+div#user_status, .blog_user_status {
     color: #ffffff !important;
 }
 
