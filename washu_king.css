@@ -1,3 +1,7 @@
+.content {
+    color: white !important;
+}
+
 .seBlogComments .commentEditLink, .commentDeleteLink {
     border: unset;
     height: unset;
