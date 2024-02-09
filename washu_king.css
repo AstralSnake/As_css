@@ -25,12 +25,18 @@ textarea#comment_body {
     color: #c6ceff !important;
 }
 
-.seBlogComments .commentEditLink, .commentDeleteLink {
+.commentEditLink, {
     border: unset;
     height: unset;
     background: unset;
     margin: unset;
     padding: unset !important;
+}
+.commentDeleteLink {
+    margin: unset;
+    padding: unset !important;
+    border: unset;
+    background: unset;
 }
 
 
