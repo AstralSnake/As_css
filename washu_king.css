@@ -1,3 +1,13 @@
+.seBlogComments .commentEditLink, .commentDeleteLink {
+    border: unset;
+    height: unset;
+    background: unset;
+    margin: unset;
+    padding: unset !important;
+}
+
+
+
 .top_header {
     backdrop-filter: blur(4px);
     background: #ffffff1c;
