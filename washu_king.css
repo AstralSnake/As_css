@@ -25,7 +25,7 @@ div#user_status, .blog_user_status {
 }
 
 textarea#comment_body {
-    background: white;
+    background: white !important;
 }
 
 .content {
