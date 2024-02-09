@@ -137,7 +137,7 @@ button.btn.btn-primary, button.button_down {
     div#comment_subscribe, [src="/images/notify.svg"] {
     border: none;
     background: none;
-    filter: contrast(0.5) sepia(1) saturate(5) brightness(3.5) hue-rotate(-72deg);
+    filter: invert(75%) sepia(29%) saturate(510%) hue-rotate(277deg) brightness(105%) contrast(90%);
 }
     div#righthome a {
     color: #dee8ff;
