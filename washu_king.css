@@ -1,3 +1,7 @@
+img.photo, .post_image img {
+    border-radius: 3px;
+}
+
 div#comment_subscribe {
     color: #f2b3e8;
     border: none;
