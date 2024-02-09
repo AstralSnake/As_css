@@ -25,19 +25,14 @@ textarea#comment_body {
     color: #c6ceff !important;
 }
 
-.commentEditLink, {
-    border: unset;
-    height: unset;
-    background: unset;
-    margin: unset;
+.commentEditLink, .commentDeleteLink {
+    border: unset !important;
+    height: unset !important;
+    background: unset !important;
+    margin: unset !important;
     padding: unset !important;
 }
-.commentDeleteLink {
-    margin: unset;
-    padding: unset !important;
-    border: unset;
-    background: unset;
-}
+
 
 
 
@@ -95,10 +90,10 @@ button.btn.btn-primary, button.button_down {
     margin-top: unset;
 }
 .post_container, [id^="comment_"] {
-    border: 1px solid #aab5fb;
+    border: 1px solid #aab5fb !important;
     padding: 10px !important;
-    border-radius: 5px;
-    background: #88aae973;
+    border-radius: 5px !important;
+    background: #88aae973 !important;
 }
    h2.card-title a {
     background: #ff83ea;
