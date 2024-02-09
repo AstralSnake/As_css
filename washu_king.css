@@ -17,7 +17,8 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.top_menu.top_mobile_menu {
     border: 0px !important;
     border: 0px;
 }
-h6.card-subtitle.mb-2.text-muted.post_date [href="https://beon.vip/washu/"]:before {
+h6.card-subtitle.mb-2.text-muted.post_date [href="https://beon.vip/washu/"]:before,
+.profile_comment_author [href="https://beon.vip/washu/"]:before{
     color: #ff83ea !important;
 }
 div#lefthome a {
