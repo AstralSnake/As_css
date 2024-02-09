@@ -1,3 +1,19 @@
+div#comment_subscribe {
+    color: #f2b3e8;
+    border: none;
+    background: no-repeat;
+    filter: sepia(61%) saturate(1558%) hue-rotate(208deg) brightness(98%) contrast(92%);
+}
+div#user_status {
+    color: #ffffff !important;
+}
+textarea#comment_body {
+    background: white;
+}
+textarea#comment_body {
+    background: white;
+}
+
 .content {
     color: white !important;
 }
