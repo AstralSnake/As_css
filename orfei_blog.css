@@ -233,6 +233,9 @@ button.btn.btn-primary {
 .card-header {
     border: none !important;
 }
-
+div#mobile_menu, #mobile_menu .menu_item_dropdown a {
+    background: #22221f;
+    color: white;
+}
 
 
