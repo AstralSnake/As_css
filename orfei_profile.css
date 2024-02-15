@@ -252,3 +252,9 @@ button.btn.btn-primary {
     td.profile_leftside .profile_content a {
         color: #93352c !important;
     }
+.browse_friends_result {
+    border: none !important;
+}
+.browse_friends_result img {
+    border-radius: 5px;
+}
