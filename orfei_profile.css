@@ -1,0 +1,254 @@
+  .top_header {
+    padding: 10px;
+    background: #22221f;
+    position: static !important;
+}
+    .top_header {
+    padding: 10px;
+    background: #22221f;
+}
+
+[src="./images/logo_new.png"] {
+    background: url(https://beon.vip/uploads_user/1000/968/af853519b44ccddd920ce5c205f5b88f.png) no-repeat;
+    background-position: 10px 5px !important;
+    background-size: 100px 100px !important;
+    padding: 60px;
+    width: 0px;
+}
+     [align="right"] {
+     display: block;
+    margin-top: 25px;
+}
+    [align="right"] a {
+    color: #fdfdfd !important;
+}
+    button.btn.btn-primary {
+    background: #93352c;
+    border: 0px;
+}
+    td.profile_leftside {
+    box-shadow: 0 0 6px #000000bd;
+    background: url(https://beon.vip/uploads_user/3000/2700/8407.gif) repeat !important;
+    filter: brightness(90%);
+    width: 27% !important;
+    border-radius: 10px;
+    color: #fff !important;
+    font-weight: bold;
+}
+.card {
+    border: unset;
+}
+    .content {
+    width: 90% !important;
+}
+
+    td.profile_rightside {
+    margin-left: 60px !important;
+}
+    td.profile_photo {
+    border: none;
+}
+   td.profile_tab a {
+    font-size: 15px;
+    padding: 5px !important;
+    background: #22221f !important;
+    text-align: center;
+    border-radius: 5px 5px 0px 0px;
+    
+    color: #fdfdfd !important;
+    font-weight: bold !important;
+}
+    td.profile_tab2 a {
+    font-size: 15px;
+    padding: 5px !important;
+    background: #93352c !important;
+    text-align: center;
+    border-radius: 5px 5px 0px 0px;
+    
+    color: #fdfdfd !important;
+    font-weight: bold !important;
+}
+    td.profile_tab2 a:hover, td.profile_tab a:hover {
+    font-size: 15px;
+    padding: 5px !important;
+    background: #949292 !important;
+    text-align: center;
+    border-radius: 5px 5px 0px 0px;
+    
+    color: #fdfdfd !important;
+    font-weight: bold !important;
+}
+    td.header, td.profile {
+    border: none !important;
+}
+    td.profile_leftside a {
+    color: white !important;
+}
+    .profile_content {
+    background: #f1f1f1;
+}
+    .profile_content a {
+    color: #93352c;
+}
+      img.photo {
+    border: none !important;
+    border-radius: 5px;
+}
+     .copyright {
+    font-size: 12px;
+    color: #22221f !important;
+}
+    .post_container, h6.card-subtitle.mb-2.text-muted.post_date, .category {
+    padding: 7px;
+}
+    .seBlogComments [style="overflow: hidden;"] {
+    background: #f5f5f5;
+}
+    .profile_comment_author {
+    background: #ad3633 !important;
+    border-radius: 5px 0 0 5px!important;
+}
+    .profile_comment_author a {
+    color: white;
+}
+    .profile_comment_date {
+    background: #dad6d6e3 !important;
+    height: 31px;
+    border-radius: 5px 5px 0px 0px;
+}
+    .comment_headline{
+        background: #dad6d6e3;
+    }
+    .profile_postcomment {
+    background: url(https://beon.vip/uploads_user/3000/2700/8430.png) repeat top #dad6d6e3 !important;
+    background-size: 1200px auto !important;
+    border-radius: 10px;
+}
+    .comment_headline {
+    background: #dad6d6e3;
+    border: unset;
+}
+    .comment_headline a {
+    color: #ad3633;
+}
+    div#postcomment_userphotos {
+    border: unset;
+}
+    [style="text-align: center;"] a {
+    color: #ad3633;
+}
+    input#comment_submit {
+    background: #22221f;
+    border: unset;
+    padding: 7px;
+    color: #fdfdfd;
+    border-radius: 5px;
+}
+     nav.navbar.navbar-expand-lg.navbar-light.bg-light.top_menu.top_mobile_menu {
+    background: #22221f;
+}
+    .navbar-light .navbar-toggler {
+    background: #ad3633;
+}
+    .show_menu.header-orange {
+    text-align: center;
+    background: #ad3633;
+    border-radius: 5px;
+    font-weight: bold;
+}
+    button.btn.btn-outline-success {
+    background: #ad3633;
+    color: white;
+    border: unset;
+    text-transform: unset;
+}
+    button.btn.btn-outline-success:hover, .btn-outline-success:not(:disabled):not(.disabled):active, .btn-outline-success:not(:disabled):not(.disabled).active, .show > .btn-outline-success.dropdown-toggle {
+    color: #22221f !important;
+    background-color: #f1f1f1 !important;
+    border-color: #f1f1f1 !important;
+}
+    .btn-outline-success:focus, .btn-outline-success.focus {
+    box-shadow: unset !important;
+}
+div.menu_item_dropdown a {
+    color: black !important;
+}
+    
+    /*UPD*/
+
+div.menu_dropdown {
+    background: #22221f;
+}
+div.menu_item_dropdown a {
+    background: #22221f;
+    color: white !important;
+}
+td.top_menu {
+    padding-left: unset;
+}
+
+div.menu_dropdown {
+    background: transparent;
+    padding: unset;
+}
+div.menu_item_dropdown a:hover {
+    background: #93352c;
+}
+    button.button_down {
+    background: #93352c;
+}
+
+.top_header button.btn.btn-primary:before {
+    content: url(https://beon.vip/uploads_user/10000/9068/c0f97719d3b33901c5d82701055aec47.png);
+    font-size: 18px;
+    text-align: center;
+    margin-left: -4px;
+}
+button.btn.btn-primary {
+    font-size: 0;
+    width: 40px;
+    height: 38px;
+}
+    td.profile_menu1 a, div.nolink {
+    background: #22221f !important;
+}
+    @media (max-width: 768px) {
+    .content {
+    margin: unset !important;
+    width: 100% !important;
+}
+
+    td.profile_rightside {
+    margin-left: unset;
+}
+    [src="./images/logo_new.png"] {
+    background: url(https://beon.vip/uploads_user/1000/968/af853519b44ccddd920ce5c205f5b88f.png) no-repeat;
+    background-size: 35px 35px !important;
+    padding: 25px;
+    width: 0px;
+}
+  td.profile_leftside {
+    width: unset !important;
+    margin-bottom: 20px;
+    text-align: center;
+}
+}
+    div#mobile_menu, #mobile_menu .menu_item_dropdown a {
+    background: #22221f;
+    color: white;
+}
+}
+    
+   
+    
+    div#mobile_menu, #mobile_menu .menu_item_dropdown a {
+    background: #22221f;
+    color: white;
+}
+    .profile_content {
+    color: #22221f;
+    font-weight: 600;
+}
+    td.profile_leftside .profile_content a {
+        color: #93352c !important;
+    }
