@@ -258,3 +258,6 @@ button.btn.btn-primary {
 .browse_friends_result img {
     border-radius: 5px;
 }
+div.profile_blogentry {
+    border: none;
+}
