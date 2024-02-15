@@ -142,7 +142,7 @@ h2.card-title a {
     border-radius: 5px;
 }
     body, .top_header a, button.btn.btn-primary{
-    text-transform: uppercase !important;
+    text-transform: unset;
 }
     nav.navbar.navbar-expand-lg.navbar-light.bg-light.top_menu.top_mobile_menu {
     background: #22221f;
