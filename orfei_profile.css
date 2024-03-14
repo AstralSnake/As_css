@@ -264,3 +264,6 @@ div.profile_blogentry {
 td.header {
     color: white;
 }
+td#profile_tabs_comments {
+    display: none;
+}
