@@ -264,9 +264,7 @@ div.profile_blogentry {
 td.header {
     color: white;
 }
-td.profile td {
-    display: table-cell;
-}
+
 td.profile [cellpadding="0"] tr:nth-child(7), 
 td.profile [cellpadding="0"] tr:nth-child(6), 
 td.profile [cellpadding="0"] tr:nth-child(5) {
