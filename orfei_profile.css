@@ -264,6 +264,8 @@ div.profile_blogentry {
 td.header {
     color: white;
 }
-td#profile_tabs_comments {
-    display: none !important;
+
+td.profile [cellpadding="0"] tr:nth-child(7) {
+    background: black;
+    display: none;
 }
