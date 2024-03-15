@@ -265,5 +265,5 @@ td.header {
     color: white;
 }
 td#profile_tabs_comments {
-    display: none;
+    display: none !important;
 }
